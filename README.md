@@ -2,6 +2,8 @@
 
 This project demonstrates a big data analytics pipeline for analyzing Electric Vehicle (EV) adoption, energy use, and charging infrastructure using Google Cloud Platform (GCP), Snowflake, Python, SQL, and Power BI, aligned with SDG 7 & 13 (Affordable & Clean Energy, Climate Action).
 
+![gsc_snw](https://github.com/user-attachments/assets/99e24532-15fa-4659-a6ed-3801f3254f11)
+
 # Project Workflow
 1. Data Ingestion (Raw Dataset → GCS)
 
@@ -65,4 +67,4 @@ Cleaned and structured EV population data for analytics
 
 Interactive dashboards supporting sustainable transport and SDG goals
 
-![gsc_snw](https://github.com/user-attachments/assets/99e24532-15fa-4659-a6ed-3801f3254f11)
+
